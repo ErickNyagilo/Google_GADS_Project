@@ -1,16 +1,31 @@
-# google_project
+## Google Africa Developer Scholarship Phase II 
 
-A new Flutter project.
+# Associate Android Developer Practice Project
 
-## Getting Started
+### Timeline: Friday, Aug 28 - Friday, Sept 11 2020 (2 weeks)
 
-This project is a starting point for a Flutter application.
+Building a GADS Leaderboard Mobile Application
 
-A few resources to get you started if this is your first Flutter project:
+## Description
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+This project is a very simple Android Project aimed at getting you to implement some simple concepts that are very important as far as Android Development is concerned.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In this project, you are going to implement a mobile design of the GADS 2020 Leaderboard.
+The mobile App will display Top 20 learners in the Learning Leaders’ category and Top 20 learners in the Skill IQ Leaders’ category.
+
+This project will help you understand:
+Multi-Activity Project
+View pager
+Customizing Toolbar
+RecyclerView
+Making Network Request
+Working with Google Form and many more...
+
+## Resources
+
+The data  for your List should be gotten by making a network request the following API endpoints.
+Base URL - https://gadsapi.herokuapp.com
+The data is in json format, You can Install Json viewer using this link - Link
+Learning Leaders - /api/hours
+Skill IQ Leaders - /api/skilliq
+
